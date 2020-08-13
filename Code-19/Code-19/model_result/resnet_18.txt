@@ -1,0 +1,256 @@
+
+Train set: Average loss: 0.0464, Accuracy: 259/425 (61%)
+
+
+Train set: Average loss: 0.0408, Accuracy: 274/425 (64%)
+
+
+Train set: Average loss: 0.0376, Accuracy: 302/425 (71%)
+
+
+Train set: Average loss: 0.0352, Accuracy: 310/425 (73%)
+
+
+Train set: Average loss: 0.0352, Accuracy: 305/425 (72%)
+
+
+Train set: Average loss: 0.0319, Accuracy: 319/425 (75%)
+
+
+Train set: Average loss: 0.0318, Accuracy: 314/425 (74%)
+
+
+Train set: Average loss: 0.0313, Accuracy: 327/425 (77%)
+
+
+Train set: Average loss: 0.0315, Accuracy: 318/425 (75%)
+
+
+Train set: Average loss: 0.0304, Accuracy: 334/425 (79%)
+
+
+Train set: Average loss: 0.0290, Accuracy: 322/425 (76%)
+
+
+Train set: Average loss: 0.0515, Accuracy: 247/425 (58%)
+
+
+Train set: Average loss: 0.0479, Accuracy: 257/425 (60%)
+
+
+Train set: Average loss: 0.0408, Accuracy: 272/425 (64%)
+
+
+Train set: Average loss: 0.0390, Accuracy: 291/425 (68%)
+
+
+Train set: Average loss: 0.0368, Accuracy: 294/425 (69%)
+
+
+Train set: Average loss: 0.0358, Accuracy: 305/425 (72%)
+
+
+Train set: Average loss: 0.0334, Accuracy: 315/425 (74%)
+
+
+Train set: Average loss: 0.0303, Accuracy: 315/425 (74%)
+
+
+Train set: Average loss: 0.0307, Accuracy: 321/425 (76%)
+
+
+Train set: Average loss: 0.0303, Accuracy: 319/425 (75%)
+
+
+Train set: Average loss: 0.0321, Accuracy: 322/425 (76%)
+
+
+Train set: Average loss: 0.0272, Accuracy: 341/425 (80%)
+
+
+Train set: Average loss: 0.0310, Accuracy: 316/425 (74%)
+
+
+Train set: Average loss: 0.0280, Accuracy: 335/425 (79%)
+
+
+Train set: Average loss: 0.0266, Accuracy: 339/425 (80%)
+
+
+Train set: Average loss: 0.0271, Accuracy: 344/425 (81%)
+
+
+Train set: Average loss: 0.0252, Accuracy: 343/425 (81%)
+
+
+ The epoch is 16, average recall: 0.8448, average precision: 0.7101,average F1: 0.7717, average accuracy: 0.7542, average AUC: 0.8138
+Train set: Average loss: 0.0238, Accuracy: 344/425 (81%)
+
+
+Train set: Average loss: 0.0257, Accuracy: 340/425 (80%)
+
+
+Train set: Average loss: 0.0247, Accuracy: 343/425 (81%)
+
+
+Train set: Average loss: 0.0256, Accuracy: 346/425 (81%)
+
+
+Train set: Average loss: 0.0240, Accuracy: 352/425 (83%)
+
+
+Train set: Average loss: 0.0238, Accuracy: 353/425 (83%)
+
+
+Train set: Average loss: 0.0225, Accuracy: 355/425 (84%)
+
+
+Train set: Average loss: 0.0218, Accuracy: 353/425 (83%)
+
+
+Train set: Average loss: 0.0209, Accuracy: 368/425 (87%)
+
+
+Train set: Average loss: 0.0186, Accuracy: 376/425 (88%)
+
+
+Train set: Average loss: 0.0241, Accuracy: 362/425 (85%)
+
+
+Train set: Average loss: 0.0218, Accuracy: 359/425 (84%)
+
+
+Train set: Average loss: 0.0194, Accuracy: 364/425 (86%)
+
+
+Train set: Average loss: 0.0203, Accuracy: 365/425 (86%)
+
+
+Train set: Average loss: 0.0318, Accuracy: 105/425 (25%)
+
+
+Train set: Average loss: 0.0232, Accuracy: 95/425 (22%)
+
+
+Train set: Average loss: 0.0218, Accuracy: 117/425 (28%)
+
+
+Train set: Average loss: 0.0214, Accuracy: 107/425 (25%)
+
+
+Train set: Average loss: 0.0213, Accuracy: 105/425 (25%)
+
+
+Train set: Average loss: 0.0212, Accuracy: 109/425 (26%)
+
+
+Train set: Average loss: 0.0212, Accuracy: 107/425 (25%)
+
+
+Train set: Average loss: 0.0211, Accuracy: 105/425 (25%)
+
+
+Train set: Average loss: 0.0211, Accuracy: 105/425 (25%)
+
+
+Train set: Average loss: 0.0210, Accuracy: 105/425 (25%)
+
+
+Train set: Average loss: 0.0210, Accuracy: 105/425 (25%)
+
+
+Train set: Average loss: 0.0209, Accuracy: 107/425 (25%)
+
+
+Train set: Average loss: 0.0209, Accuracy: 107/425 (25%)
+
+
+Train set: Average loss: 0.0209, Accuracy: 109/425 (26%)
+
+
+Train set: Average loss: 0.0436, Accuracy: 109/203 (54%)
+
+
+Train set: Average loss: 0.0436, Accuracy: 109/203 (54%)
+
+
+Train set: Average loss: 0.0435, Accuracy: 109/203 (54%)
+
+
+Train set: Average loss: 0.0434, Accuracy: 109/203 (54%)
+
+
+Train set: Average loss: 0.0434, Accuracy: 109/203 (54%)
+
+
+Train set: Average loss: 0.0433, Accuracy: 108/203 (53%)
+
+
+Train set: Average loss: 0.0432, Accuracy: 107/203 (53%)
+
+
+Train set: Average loss: 0.0433, Accuracy: 103/203 (51%)
+
+
+Train set: Average loss: 0.0431, Accuracy: 105/203 (52%)
+
+
+Train set: Average loss: 0.0432, Accuracy: 102/203 (50%)
+
+
+Train set: Average loss: 0.0429, Accuracy: 102/203 (50%)
+
+
+Train set: Average loss: 0.0428, Accuracy: 97/203 (48%)
+
+
+Train set: Average loss: 0.0427, Accuracy: 106/203 (52%)
+
+
+Train set: Average loss: 0.0426, Accuracy: 100/203 (49%)
+
+
+Train set: Average loss: 0.0424, Accuracy: 101/203 (50%)
+
+
+Train set: Average loss: 0.0423, Accuracy: 107/203 (53%)
+
+
+Train set: Average loss: 0.0424, Accuracy: 96/203 (47%)
+
+
+Train set: Average loss: 0.0435, Accuracy: 100/203 (49%)
+
+
+Train set: Average loss: 0.0442, Accuracy: 107/203 (53%)
+
+
+Train set: Average loss: 0.0455, Accuracy: 102/203 (50%)
+
+
+Train set: Average loss: 0.0440, Accuracy: 104/203 (51%)
+
+
+Train set: Average loss: 0.0432, Accuracy: 122/203 (60%)
+
+
+Train set: Average loss: 0.0430, Accuracy: 102/203 (50%)
+
+
+Train set: Average loss: 0.0428, Accuracy: 106/203 (52%)
+
+
+Train set: Average loss: 0.0427, Accuracy: 110/203 (54%)
+
+
+Train set: Average loss: 0.0425, Accuracy: 104/203 (51%)
+
+
+Train set: Average loss: 0.0424, Accuracy: 107/203 (53%)
+
+
+Train set: Average loss: 0.0423, Accuracy: 107/203 (53%)
+
+
+Train set: Average loss: 0.0421, Accuracy: 109/203 (54%)
+

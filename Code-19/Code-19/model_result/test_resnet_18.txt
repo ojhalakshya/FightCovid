@@ -1,0 +1,18 @@
+
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.7482
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6744
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6713
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6731
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6734
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6710
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6668
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6638
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6604
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6569
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6557
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6518
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6484
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6473
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6448
+ Average recall: 0.0000, average precision: nan,average F1: nan, average accuracy: 0.4828, average AUC: 0.6449
+ Average precision: nan,average F1: nan, average accuracy: 0.4494, average AUC: 0.7090
